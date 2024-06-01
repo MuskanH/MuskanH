@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MuskanH
-- 👀 I’m interested in web design and development.
-- 🌱 I’m currently learning web development.
+- 👀 I’m a frontend web developer.
+  
 
 - 📫 How to reach me muskan159k@gmail.com
 
